@@ -102,7 +102,7 @@ body {
 
 .empty-message {
   text-align: center;
-  color: gray;
+  color: #cc00cc;
 }
 
 @media (max-width: 500px) {
